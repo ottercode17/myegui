@@ -70,7 +70,7 @@ impl eframe::App for TemplateApp {
             ui.heading("eframe template");
 
             ui.horizontal(|ui| {
-                ui.label("Write somethingyyy1708917: ");
+                ui.label("Write something2026: ");
                 ui.text_edit_singleline(&mut self.label);
             });
 
